@@ -1,3 +1,24 @@
+
+# 📊 Superstore Sales Analysis with Pandas & Matplotlib
+
+**Complete Data Analysis Pipeline: Cleaning → EDA → Visualization**
+
+## 🎯 Key Results
+✅ **Cleaned rows** (removed duplicates & missing values)  
+✅ **Profit by Category**: Technology leads with highest margins  
+✅ **Sales by Country**: Clear geographic trends revealed  
+
+## 📋 Step-by-Step Analysis
+
+### 1. **Data Loading & Exploration**
+### 2. **Data Cleaning** 
+### 3. **Statistical Analysis**
+### 4. **Visual Insights**
+
+
+**Keywords:** data analysis, pandas cleaning, EDA, sales insights, Python visualization
+
+
 # تحليل بيانات المبيعات باستخدام Pandas وMatplotlib
 
 ## وصف المشروع
@@ -34,21 +55,5 @@
 *تم إعداد هذا المشروع لأغراض تعليمية وعرض مهارات تحليل البيانات بشكل عملي باستخدام Python وPandas.*  
 
 
-
-# 📊 Superstore Sales Analysis with Pandas & Matplotlib
-
-**Complete Data Analysis Pipeline: Cleaning → EDA → Visualization**
-
-## 🎯 Key Results
-✅ **Cleaned rows** (removed duplicates & missing values)  
-✅ **Profit by Category**: Technology leads with highest margins  
-✅ **Sales by Country**: Clear geographic trends revealed  
-
-## 📋 Step-by-Step Analysis
-
-### 1. **Data Loading & Exploration**
-### 2. **Data Cleaning** 
-### 3. **Statistical Analysis**
-### 4. **Visual Insights**
 
 **Keywords:** data analysis, pandas cleaning, EDA, sales insights, Python visualization
